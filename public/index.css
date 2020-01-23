@@ -1,0 +1,53 @@
+/* body{
+    cursor:url(http://falconmasters.com/img/cursor.gif), auto;
+} */
+.logo{
+    width: 30% !important;
+    height: auto;   
+}
+.menu{
+    font-size: 15px;
+    margin-right: 0px;
+}
+.parallax-completo {
+    width: 100%;
+    height: 100vh;
+    background-image: url('images/imagen_inicio-08.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.EME{
+    margin: 0% 30%;
+}
+.Metroleo{
+margin: -4% 40%;
+}
+.inicio{
+    width: 100%;
+    height: auto;
+}
+/* .fondo{
+    background-image: url('images/lista_azul-07.png');
+} */
+.lista{
+    width: 12%;
+    height: auto;
+}
+.redesSociales{
+    width: 90%;
+    height: auto;
+}
+.boton{
+    margin: 0% 80%;
+}
+.cartas{
+    background-color: white;
+    border-radius: 25px;
+    margin: 0% 3%;
+    
+}
